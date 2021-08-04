@@ -7,8 +7,11 @@
 // }
 
 const doubleIT = num => num*2;
+
 const add = (x , y) =>  x + y ;
+
 const give5 = () => 5;
+
 const doMath = (x , y ) =>{
     const sum = x+y;
     const diff = x-y;
@@ -22,6 +25,6 @@ const five = give5();
 const doMa = doMath(10 , 8);
 
 console.log(result);
-console.log('show me the add' , addme)
-console.log('five me ' , five)
-console.log('doMath' , doMa)
+console.log('show me the add' , addme);
+console.log('five me ' , five);
+console.log('doMath' , doMa);
