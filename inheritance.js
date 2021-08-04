@@ -22,4 +22,3 @@ const baby1 = new Child('labiba');
 console.log(baby.getFullName());
 console.log(baby1.getFullName());
 
-// module(22-8);
